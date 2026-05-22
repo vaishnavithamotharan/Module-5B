@@ -36,7 +36,7 @@ result_data = pd.concat([student_data1, student_data2])
 print(result_data)
 ```
 ## Output
-<img width="694" height="855" alt="image" src="https://github.com/user-attachments/assets/f5b911c1-c0cd-4dc3-a521-92c9fb7fbd37" />
+<img width="694" height="855" alt="image" src="https://github.com/user-attachments/assets/b325eaca-b6d9-4b96-98cb-708c612de43f" />
 
 
 ## Result
